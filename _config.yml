@@ -1,14 +1,14 @@
-layout_spectrum: 0.05432877433486283
-typography_spectrum: 0.6160031042527407
+layout_spectrum: 0.8954910263419151
+typography_spectrum: 0.7071683092508465
 color:
-  brandStrength: 0.4465302345342934
-  lightness: 0.8880143940914422
-  saturation: 0.7716439303476363
-  rhythmicContrast: 0.858738275244832
+  brandStrength: 0.22072926652617753
+  lightness: 0.7470131497830153
+  saturation: 0.6379936167504638
+  rhythmicContrast: 0.0792052571196109
   brandColors:
-    - '#F7F2B2'
-    - '#ADCF4F'
-    - '#84815B'
-    - '#4A1A2C'
-    - '#8E3557'
+    - '#F9E4AD'
+    - '#E6B098'
+    - '#CC4452'
+    - '#723147'
+    - '#31152B'
 name: Sarah Gardner Media
